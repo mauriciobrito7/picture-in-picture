@@ -1,0 +1,13 @@
+body {
+ height: 100vh;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: var(--black);
+}
+
+button {
+ width: 16rem;
+ height: 3.75rem;
+ font-size: var(--lg);
+}
